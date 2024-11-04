@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eliwaisu.github.io/kRf/sitemap_index.txt
+Sitemap: https://eliwaisu.github.io/mkM/sitemap_index.txt
+Sitemap: https://eliwaisu.github.io/pxY/sitemap_index.txt
+Sitemap: https://eliwaisu.github.io/tew/sitemap_index.txt
